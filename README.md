@@ -29,13 +29,6 @@ Moving away from legacy XML layouts, this project is built entirely from scratch
 * **State Management:** Compose State, ViewModel
 * **Design System:** Material Design 3
 
-## 📸 Screenshots
-
-| Live Market Page | Detail & Calculator Page |
-| :---: | :---: |
-| <img src="URL_YUKLEYECEGIN_EKRAN_GORUNTUSU_1" width="250"/> | <img src="URL_YUKLEYECEGIN_EKRAN_GORUNTUSU_2" width="250"/> |
-
-> **Note:** *To add screenshots, simply drag and drop your images into this README editor on GitHub and replace the src links.*
 
 ## 🧠 What I Learned
 
@@ -49,4 +42,4 @@ Building this project was a deep dive into modern Android development. It signif
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/ProGold-Tracker.git](https://github.com/YOUR_USERNAME/ProGold-Tracker.git)
+   git clone [https://github.com/MehmetAli-03/ProGold-Tracker.git](https://github.com/MehmetAli-03/ProGold-Tracker.git)
