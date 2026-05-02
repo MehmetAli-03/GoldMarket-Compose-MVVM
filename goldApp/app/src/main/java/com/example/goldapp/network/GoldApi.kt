@@ -8,7 +8,7 @@ interface GoldApi {
     // sorgu göndreceğimiz adres için key
     @Headers(
         "content-type: application/json",
-        "authorization: apikey  4uGIyiGbK5pRWBmb7XtY9k:18TogTLip7nTnCW2P0fE3d"
+        "authorization: apikey  "// buraya size ait özel olan api keyi yazıcaksınız
     )
 
     // sorgu yapan method bilgileri çekiyoruz
