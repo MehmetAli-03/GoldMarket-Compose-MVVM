@@ -38,8 +38,3 @@ Building this project was a deep dive into modern Android development. It signif
 3. Handling network requests asynchronously using Retrofit and mapping JSON responses to Kotlin data classes.
 4. Structuring a project efficiently using the MVVM pattern for better code readability.
 
-## 🚀 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/MehmetAli-03/ProGold-Tracker.git](https://github.com/MehmetAli-03/ProGold-Tracker.git)
